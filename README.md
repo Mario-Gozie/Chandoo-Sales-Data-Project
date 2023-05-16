@@ -76,7 +76,7 @@ In SQL Database, column names with spaces are not recognized unlike in Excel. He
 
 ![Alt Text](https://github.com/Mario-Gozie/Chandoo-Sales-Data-Project/blob/main/Images/Screenshot%20(264).png)
 
-NB: I just spiced it up here by formatting it as currency to input the dollar sign :heart_eyes: but when I want to do serious calculations, I avoid doing this because it affect ordering and calculations at times :hushed:.
+_**NB**: I just spiced it up here by formatting it as currency to input the dollar sign :heart_eyes: but when I want to do serious calculations, I avoid doing this because it affect ordering and calculations at times :hushed:._
 
 
 QUESTION 2
@@ -106,9 +106,9 @@ from chandoo_sales_data)
 select * from Total_Per_Month;
 ```
 
-![Alt Text]()
+![Alt Text](https://github.com/Mario-Gozie/Chandoo-Sales-Data-Project/blob/main/Images/Screenshot%20(280).png)
 
-NB: Aside spicing up the table by using the currency format, the main reason for this Alternative method is to show common table expression (CTE).
+_**NB**: Aside spicing up the table by using the currency format, the main reason for this Alternative method is to show common table expression (CTE)._
 
 
 QUESTION 3

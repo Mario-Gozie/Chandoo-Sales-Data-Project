@@ -289,8 +289,10 @@ select distinct
 
 ![AlT Text](https://github.com/Mario-Gozie/Chandoo-Sales-Data-Project/blob/main/Images/The%20Dashboard.png)
 
+Here is a [link](https://public.tableau.com/app/profile/chigozirim.nwasinachi.oguedoihu/viz/BusinessDashboard_16832365521490/TheDashboard) to the Dashboard.
 
 ## RECOMMENDATION AND CONCLUTION
+Overall, Business has been fairly Okay with some falls in sales for February, April, July and August. However, these falls are not less than **699,000** dollars which is fair. interestingly, the shop didn't experience a drop but an increase that is a bit above 7% in sales for the month of March, even when one of their staff (**Dotty Strutley**) was absent throughout the month.
 
 
 ![Alt Text](https://github.com/Mario-Gozie/Chandoo-Sales-Data-Project/blob/main/Images/Thanks.jpg)
